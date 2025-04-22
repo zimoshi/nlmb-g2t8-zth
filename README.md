@@ -3,7 +3,7 @@
 
 This is a fun, friendly, and fully LaTeX-free math book that covers Grades 2 through 8. Whether you're a student, parent, or teacher, this book is designed to make math approachable, clear, and even a little fun—using plain language, real-life examples, emojis, and just the right amount of color and creativity.
 
-📥 **Download the Book** -> [👉 Click here to get the full PDF](./NoLatex-MathBook-2To8-ZeroToHero.pdf)
+📥 **Download the Book** -> [👉 Click here to get the full PDF](https://raw.githubusercontent.com/zimoshi/nlmb-g2t8-zth/15edb627516e55d299e3c7b3e927e2fc3d1306e9/NoLatex-MathBook-2To8-ZeroToHero.pdf?token=BESLOBCUHMVAO74H22T6IZ3IA4T6G)
 
 ## 🔢 What's Inside?
 
